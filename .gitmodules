@@ -1,0 +1,3 @@
+[submodule "gitops-scripts"]
+	path = gitops-scripts
+	url = https://github.com/rw-gitops-demo/gitops-scripts.git
