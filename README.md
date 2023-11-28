@@ -28,7 +28,7 @@ However, you may first continue to run the cluster as outlined further below.
 This repo has a git submodule pointing to the [gitops-scripts](https://github.com/rw-gitops-demo/gitops-scripts) repo.
 To clone the repo and pull the files in the module at the same time, execute:
 ```shell
-git clone --recurse-submodules git@github.com:rw-gitops-demo/app-manifests.git
+git clone --recurse-submodules git@github.com:rw-gitops-demo/ops-manifests.git
 ```
 You will then need to run the following to set up the git hooks:
 ```shell
